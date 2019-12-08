@@ -47,7 +47,7 @@ aside {
 
 #section {
 
-		clear: both;
+		float: left;
 		width: 480px;
 		color: #777;
 		background: #ebebeb;
@@ -85,6 +85,7 @@ p {
 }
 
 footer {
+	clear: both;
 	color: #777;
 	background: #ebebeb;
 	text-align: center;
