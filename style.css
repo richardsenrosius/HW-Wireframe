@@ -29,10 +29,12 @@ body {
 }
 
 
-#nav {
+nav {
 		color: #777;
 		background: #ebebeb;
 		text-align: center;
+		padding: 10px;
+		margin: 10px;
 }
 
 
@@ -42,21 +44,26 @@ aside {
 		color: #777;
 		background: #ebebeb;
 		text-align: center;
+		padding: 10px;
+		margin: 10px;
+		overflow: hidden;
 		float: right;
 }
 
-#section {
+section {
 
 		float: left;
 		width: 480px;
 		color: #777;
 		background: #ebebeb;
 		text-align: center;	
-	
+		padding: 10px;
+		margin: 10px;
+		overflow: hidden;	
 }
 
 
-#article {
+article {
 		color: #ebebeb;
 		background: #777;
 		width: 480px;
@@ -68,6 +75,7 @@ header {
 
 	background: #ebebeb;
 	padding: 10px;
+	margin: 10px;
 	text-align: center;
 }
 h1 { 
@@ -88,5 +96,12 @@ footer {
 	clear: both;
 	color: #777;
 	background: #ebebeb;
+	padding: 10px;
+	margin: 10px;
 	text-align: center;
 }
+
+
+
+
+
